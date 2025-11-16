@@ -1,7 +1,10 @@
 # Road-Damages-and-Hazard-Report-App
 This app lets users report road issues by marking the location, selecting the damage type, rating severity, adding details, and uploading photos. Built with Survey123 on AGOL, it streamlines field data collection and sends reports directly to county staff for quick action.
 Road Damages and Hazard Report Application
-Introduction
+
+**Access the App here** - https://arcg.is/0G4TC4
+
+**Introduction**
 
 The Road Damages and Hazard Report Application is an interactive, GIS-based data collection tool designed to support proactive road maintenance within Wayne County. The application enables field crews and authorized personnel to capture accurate, real-time information about roadway damages and hazards before they escalate into major issues or generate resident complaints. By integrating geolocation, imagery, and structured reporting fields, this tool strengthens infrastructure monitoring and improves public safety.
 
@@ -101,3 +104,8 @@ The increasing need for digital, field-based solutions in government operations
 Alignment with proactive maintenance strategies that reduce long-term repair costs
 
 A strong example of using geospatial technology to improve community safety and quality of life
+
+**Screenshot of the Interface**
+
+<img width="509" height="436" alt="image" src="https://github.com/user-attachments/assets/e54a1dc8-ee05-41bd-ae0b-7f41d6d74941" />
+
